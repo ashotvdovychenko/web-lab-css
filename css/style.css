@@ -54,9 +54,9 @@
 }
 
 .sidebar {
-    line-height: 50px;
-    align-items: center;
     display: flex;
+    align-items: center;
+    line-height: 50px;
     border-right: 5px solid;
     width: 200px;
     height: 75vh;
