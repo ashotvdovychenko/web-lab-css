@@ -43,6 +43,8 @@
 
 .main-content-image {
     width: 200px;
+    border: 0 solid;
+    border-radius: 30px;
     box-shadow: 10px 10px 30px;
 }
 
@@ -60,6 +62,7 @@
     height: 75vh;
     padding: 0 30px;
     font-size: 24px;
+    text-shadow: 5px 5px 10px;
 }
 
 .sidebar-list {
